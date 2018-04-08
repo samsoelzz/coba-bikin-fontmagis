@@ -9,22 +9,16 @@ Github has its own online markdown editor with a preview feature, you can use it
 For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
 
 ---
-# **Module Name**
+# **tes doang**
 ## Description
-Description here
+coba masang pon di magiss
 ## Changelog
-Changelog here
+1. baru bikin
 ## Requirements
-- Requirement 1
-- Requirement *
-- Requirement n
+- hape
+- magisk
+- akal sehat
 ## Instructions
-Instructions here
-- Or other instructions here
-- Followed by more instructions
-1. Or a list of instructions
-2. With more instructions
+flash aja pake magisk
 ## Links
-[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
-
-[Latest stable Magisk](http://www.tiny.cc/latestmagisk)
+gak onok
