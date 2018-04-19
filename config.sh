@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "       neue haas grotesk       "
+  ui_print "       segoe ui NGENTOT        "
   ui_print "*******************************"
 }
 
